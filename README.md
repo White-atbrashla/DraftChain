@@ -1,10 +1,10 @@
-## Draftchain Architecture Overview ##
-# Project Purpose #
+# Draftchain Architecture Overview #
+## Project Purpose ##
 
 DraftChain is an innovative platform designed to transform how legal professionals work. By harnessing the power of artificial intelligence, we're making legal tasks faster, more accurate, and more efficient than ever before.
 Key Features:
 
-Smart Document Processing:
+*Smart Document Processing*:
 DraftChain can quickly read and understand vast amounts of legal documents, saving you countless hours of manual review.
 Intelligent Task Management:
 Our system automatically identifies legal tasks and creates optimized workflows, helping you stay organized and focused on what matters most.
